@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/Response.java
+END
+ConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ConnectionException.java
+END
+ProtocolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ProtocolException.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/Protocol.java
+END
+CommandFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/CommandFailedException.java
+END
+ParsingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ParsingException.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ByteArray.java
+END
+Argument.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/Argument.java
+END
+BadCommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/BadCommandException.java
+END
+ResponseInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ResponseInputStream.java
+END
+LiteralException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/LiteralException.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/Literal.java
+END
+ResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/iap/ResponseHandler.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn
+END
+MultipartReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/MultipartReport.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/package.html
+END
+MessageHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/MessageHeaders.java
+END
+mailcap
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/mailcap
+END
+text_rfc822headers.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/text_rfc822headers.java
+END
+DeliveryStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/DeliveryStatus.java
+END
+message_deliverystatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/message_deliverystatus.java
+END
+multipart_report.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/dsn/multipart_report.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet
+END
+MimeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimeMessage.java
+END
+MimeBodyPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimeBodyPart.java
+END
+InternetAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/InternetAddress.java
+END
+ContentDisposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/ContentDisposition.java
+END
+SharedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/SharedInputStream.java
+END
+UniqueValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/UniqueValue.java
+END
+AddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/AddressException.java
+END
+MimeUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimeUtility.java
+END
+ParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/ParameterList.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/ContentType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/package.html
+END
+MimePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimePart.java
+END
+NewsAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/NewsAddress.java
+END
+HeaderTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/HeaderTokenizer.java
+END
+InternetHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/InternetHeaders.java
+END
+PreencodedMimeBodyPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/PreencodedMimeBodyPart.java
+END
+MimeMultipart.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimeMultipart.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/ParseException.java
+END
+MimePartDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MimePartDataSource.java
+END
+MailDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/internet/MailDateFormat.java
+END

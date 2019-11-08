@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal
+END
+msgsperweek.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal/msgsperweek.java
+END
+answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal/answer.java
+END
+fpopulate.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal/fpopulate.java
+END
+foldersplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal/foldersplit.java
+END
+TtyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/demo/internal/TtyAuthenticator.java
+END

@@ -1,0 +1,412 @@
+The target system is: Linux - 1 - armv7-a
+The host system is: Linux - 2.6.32-38-generic - x86_64
+Determining if files dlfcn.h;stdint.h;stddef.h;inttypes.h;stdlib.h;strings.h;string.h;float.h exist passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Performing C SOURCE FILE Test memchrExists succeded with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -DmemchrExists -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -DmemchrExists  -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/src.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <string.h>
+
+int main()
+{
+#ifndef memchr
+   int i = sizeof(&memchr);
+#endif
+  return 0;
+}
+
+Performing C SOURCE FILE Test freeExists succeded with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -DfreeExists -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -DfreeExists  -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/src.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <stdlib.h>
+
+int main()
+{
+#ifndef free
+   int i = sizeof(&free);
+#endif
+  return 0;
+}
+
+Determining if files unistd.h exist passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the DIR symbol is defined as in AC_HEADER_DIRENT passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckDIRSymbolExists.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckDIRSymbolExists.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckDIRSymbolExists.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckDIRSymbolExists.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+File /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckDIRSymbolExists.c:
+/* */
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <dirent.h>
+
+int main()
+{if ((DIR *) 0) return 0;}
+
+Determining if the include file stdio.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file math.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file errno.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stdarg.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/mman.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/time.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/ioctl.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file fcntl.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/socket.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file netinet/in.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file netinet/tcp.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file arpa/inet.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file limits.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file signal.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file getopt.h exists passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions    -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+
+Performing C SOURCE FILE Test _have_inline succeded with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ -DTESTKEYWORD=inline --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -D_have_inline -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -D_have_inline  -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/src.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+Source file was:
+typedef int foo_t;
+             static TESTKEYWORD foo_t static_foo(){return 0;}
+             foo_t foo(){return 0;}
+             int main(int argc, char *argv[]){return 0;}
+Performing C SOURCE FILE Test _have_vla succeded with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/src.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ -DTESTKEYWORD=inline --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -D_have_vla -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/src.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions  -D_have_vla  -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/src.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(int argc, char *argv[]){int arr[argc]; return 0;}
+Determining size of unsigned short passed with the following output:
+Change Dir: /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckTypeSizeC.c.o
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc  -DANDROID -D__ARM_ARCH_5__ -D__ARM_ARCH_5T__ -D__ARM_ARCH_5E__ -D__ARM_ARCH_5TE__ -DTESTKEYWORD=inline --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -DHAVE_SYS_TYPES_H -DHAVE_STDINT_H -DHAVE_STDDEF_H -isystem /opt/android-toolchain/sysroot/usr/include -isystem /opt/android-toolchain/arm-linux-androideabi/include/c++/4.4.3/arm-linux-androideabi/armv7-a   -o CMakeFiles/cmTryCompileExec.dir/CheckTypeSizeC.c.o   -c /root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp/CheckTypeSizeC.c
+Linking C executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/opt/android-toolchain/bin/arm-linux-androideabi-gcc   --sysroot=/opt/android-toolchain/sysroot -fsigned-char -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -fdata-sections -ffunction-sections -fPIC -Wno-psabi -fexceptions   -DHAVE_SYS_TYPES_H -DHAVE_STDINT_H -DHAVE_STDDEF_H  -Wl,--fix-cortex-a8 -Wl,--gc-sections -Wl,--no-undefined  -Wl,-z,nocopyreloc CMakeFiles/cmTryCompileExec.dir/CheckTypeSizeC.c.o  -o cmTryCompileExec -rdynamic -L/opt/android-toolchain/user/libs/armeabi-v7a -L/root/APA/fluidsynth-1.1.6/CMakeFiles/ndklibs/armeabi-v7a 
+make[1]: Leaving directory `/root/APA/fluidsynth-1.1.6/CMakeFiles/CMakeTmp'
+
+

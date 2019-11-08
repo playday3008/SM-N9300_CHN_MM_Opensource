@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/4/trunk/mail
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/mail/pom.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/mail/build.properties
+END
+mail.jardesc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/mail/mail.jardesc
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/mail/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/mail/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/mail/project.properties
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/trunk/mail/project.xml
+END
+maven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/mail/maven.xml
+END
+mail.pom
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/mail/mail.pom
+END
+dirmap
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/mail/dirmap
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/mail/.cvsignore
+END
+pop3.mf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/mail/pop3.mf
+END
+mail.mf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/mail/mail.mf
+END
+smtp.mf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/mail/smtp.mf
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/mail/.project
+END
+dsn.mf
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/mail/dsn.mf
+END
+imap.mf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/mail/imap.mf
+END

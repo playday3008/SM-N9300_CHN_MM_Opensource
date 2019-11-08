@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/build.bat
+END
+webapp.README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/webapp.README.txt
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/build.sh
+END

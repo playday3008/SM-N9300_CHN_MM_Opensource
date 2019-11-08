@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries
+END
+LogSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/LogSupport.java
+END
+MailcapParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/MailcapParseException.java
+END
+MailcapTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/MailcapTokenizer.java
+END
+MailcapFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/MailcapFile.java
+END
+MimeTypeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/MimeTypeFile.java
+END
+MimeTypeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/activation/src/java/com/sun/activation/registries/MimeTypeEntry.java
+END

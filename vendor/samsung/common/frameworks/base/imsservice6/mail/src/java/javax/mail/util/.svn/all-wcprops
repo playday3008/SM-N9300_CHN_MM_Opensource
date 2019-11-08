@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/util
+END
+SharedFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/util/SharedFileInputStream.java
+END
+SharedByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/util/SharedByteArrayInputStream.java
+END
+ByteArrayDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/util/ByteArrayDataSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/util/package.html
+END

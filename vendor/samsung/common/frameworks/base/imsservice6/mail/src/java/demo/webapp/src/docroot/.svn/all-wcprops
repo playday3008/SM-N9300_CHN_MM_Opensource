@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot
+END
+compose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/compose.jsp
+END
+errorpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/errorpage.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/login.jsp
+END
+send.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/send.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/logout.jsp
+END
+folders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/folders.jsp
+END
+messagecontent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/messagecontent.jsp
+END
+errordetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/errordetails.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/index.html
+END
+messageheaders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/docroot/messageheaders.jsp
+END

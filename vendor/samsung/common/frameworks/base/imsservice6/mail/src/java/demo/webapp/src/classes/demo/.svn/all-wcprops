@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/classes/demo
+END
+MailUserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/classes/demo/MailUserBean.java
+END
+FilterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/classes/demo/FilterServlet.java
+END
+AttachmentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/classes/demo/AttachmentServlet.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client
+END
+FolderTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/FolderTreeNode.java
+END
+StoreTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/StoreTreeNode.java
+END
+MultipartViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/MultipartViewer.java
+END
+SimpleAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/SimpleAuthenticator.java
+END
+MessageViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/MessageViewer.java
+END
+TextViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/TextViewer.java
+END
+simpleclient
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/simpleclient
+END
+SimpleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/SimpleClient.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/README.txt
+END
+FolderModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/FolderModel.java
+END
+FolderViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/FolderViewer.java
+END
+ComponentFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/ComponentFrame.java
+END
+simple.mailcap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/demo/client/simple.mailcap
+END

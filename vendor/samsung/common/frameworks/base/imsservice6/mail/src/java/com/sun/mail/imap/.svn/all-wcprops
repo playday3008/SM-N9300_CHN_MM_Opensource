@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap
+END
+IMAPSSLStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPSSLStore.java
+END
+AppendUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/AppendUID.java
+END
+IMAPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPMessage.java
+END
+IMAPBodyPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPBodyPart.java
+END
+IMAPNestedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPNestedMessage.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/package.html
+END
+ACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/ACL.java
+END
+DefaultFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/DefaultFolder.java
+END
+Rights.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/Rights.java
+END
+IMAPFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPFolder.java
+END
+IMAPInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPInputStream.java
+END
+IMAPStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPStore.java
+END
+IMAPMultipartDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/IMAPMultipartDataSource.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/imap/Utility.java
+END

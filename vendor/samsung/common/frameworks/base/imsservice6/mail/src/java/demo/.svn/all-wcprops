@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/mail/src/java/demo
+END
+search.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/mail/src/java/demo/search.java
+END
+folderlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/mail/src/java/demo/folderlist.java
+END
+registry.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/mail/src/java/demo/registry.java
+END
+msgmultisendsample.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/demo/msgmultisendsample.java
+END
+sendhtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/mail/src/java/demo/sendhtml.java
+END
+copier.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/mail/src/java/demo/copier.java
+END
+CRLFOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/demo/CRLFOutputStream.java
+END
+monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/demo/monitor.java
+END
+msgshow.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/demo/msgshow.java
+END
+mover.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/mail/src/java/demo/mover.java
+END
+uidmsgshow.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/mail/src/java/demo/uidmsgshow.java
+END
+populate.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/mail/src/java/demo/populate.java
+END
+sendfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/mail/src/java/demo/sendfile.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/mail/src/java/demo/README.txt
+END
+namespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/mail/src/java/demo/namespace.java
+END
+transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/mail/src/java/demo/transport.java
+END
+smtpsend.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/mail/src/java/demo/smtpsend.java
+END
+NewlineOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/demo/NewlineOutputStream.java
+END
+msgsend.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/demo/msgsend.java
+END
+msgsendsample.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/demo/msgsendsample.java
+END

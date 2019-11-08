@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/mail/src/java
+END
+javamail.smtp.provider
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.smtp.provider
+END
+javamail.imap.provider
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.imap.provider
+END
+javamail.default.providers
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.default.providers
+END
+dsn.mf
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/mail/src/java/dsn.mf
+END
+mailcap
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/mail/src/java/mailcap
+END
+javamail.smtp.address.map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.smtp.address.map
+END
+javamail.default.address.map
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.default.address.map
+END
+javamail.charset.map
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.charset.map
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/mail/src/java/overview.html
+END
+javamail.pop3.provider
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/javamail.pop3.provider
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3
+END
+POP3Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/POP3Message.java
+END
+POP3Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/POP3Folder.java
+END
+POP3Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/POP3Store.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/package.html
+END
+POP3SSLStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/POP3SSLStore.java
+END
+DefaultFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/DefaultFolder.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/Protocol.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/pop3/Status.java
+END

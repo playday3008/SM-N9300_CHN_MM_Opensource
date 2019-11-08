@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search
+END
+OrTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/OrTerm.java
+END
+RecipientTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/RecipientTerm.java
+END
+ReceivedDateTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/ReceivedDateTerm.java
+END
+AddressTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/AddressTerm.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/package.html
+END
+IntegerComparisonTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/IntegerComparisonTerm.java
+END
+HeaderTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/HeaderTerm.java
+END
+FromStringTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/FromStringTerm.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/SearchException.java
+END
+BodyTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/BodyTerm.java
+END
+MessageNumberTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/MessageNumberTerm.java
+END
+SubjectTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/SubjectTerm.java
+END
+NotTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/NotTerm.java
+END
+MessageIDTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/MessageIDTerm.java
+END
+AndTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/AndTerm.java
+END
+FromTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/FromTerm.java
+END
+SearchTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/SearchTerm.java
+END
+StringTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/StringTerm.java
+END
+SentDateTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/SentDateTerm.java
+END
+FlagTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/FlagTerm.java
+END
+RecipientStringTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/RecipientStringTerm.java
+END
+ComparisonTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/ComparisonTerm.java
+END
+SizeTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/SizeTerm.java
+END
+AddressStringTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/AddressStringTerm.java
+END
+DateTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/search/DateTerm.java
+END

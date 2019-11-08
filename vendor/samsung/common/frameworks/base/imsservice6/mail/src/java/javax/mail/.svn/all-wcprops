@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail
+END
+MultipartDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MultipartDataSource.java
+END
+PasswordAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/PasswordAuthentication.java
+END
+IllegalWriteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/IllegalWriteException.java
+END
+AuthenticationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/AuthenticationFailedException.java
+END
+URLName.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/URLName.java
+END
+MessageAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MessageAware.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Part.java
+END
+FolderNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/FolderNotFoundException.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Folder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/package.html
+END
+Multipart.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Multipart.java
+END
+BodyPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/BodyPart.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Address.java
+END
+QuotaAwareStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/QuotaAwareStore.java
+END
+MethodNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MethodNotSupportedException.java
+END
+ReadOnlyFolderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/ReadOnlyFolderException.java
+END
+MessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MessageContext.java
+END
+Quota.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Quota.java
+END
+Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Provider.java
+END
+MessagingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MessagingException.java
+END
+Flags.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Flags.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Transport.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Store.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Service.java
+END
+StoreClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/StoreClosedException.java
+END
+FetchProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/FetchProfile.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Authenticator.java
+END
+SendFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/SendFailedException.java
+END
+UIDFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/UIDFolder.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Session.java
+END
+FolderClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/FolderClosedException.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Message.java
+END
+MessageRemovedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/MessageRemovedException.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Version.java
+END
+EventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/EventQueue.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/Header.java
+END
+NoSuchProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/NoSuchProviderException.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo
+END
+ListMessagesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/ListMessagesTag.java
+END
+MessageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/MessageTag.java
+END
+MessageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/MessageInfo.java
+END
+ListAttachmentsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/ListAttachmentsTag.java
+END
+AttachmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/AttachmentInfo.java
+END
+SendTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/SendTag.java
+END
+ListMessagesTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/ListMessagesTEI.java
+END
+MessageTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/MessageTEI.java
+END
+ListAttachmentsTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/mail/src/java/demo/webapp/src/taglib/demo/ListAttachmentsTEI.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event
+END
+TransportAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/TransportAdapter.java
+END
+StoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/StoreEvent.java
+END
+TransportEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/TransportEvent.java
+END
+MessageCountAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MessageCountAdapter.java
+END
+MessageCountEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MessageCountEvent.java
+END
+ConnectionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/ConnectionAdapter.java
+END
+MessageChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MessageChangedEvent.java
+END
+ConnectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/ConnectionEvent.java
+END
+StoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/StoreListener.java
+END
+TransportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/TransportListener.java
+END
+MessageCountListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MessageCountListener.java
+END
+MessageChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MessageChangedListener.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/ConnectionListener.java
+END
+FolderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/FolderAdapter.java
+END
+FolderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/FolderEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/package.html
+END
+FolderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/FolderListener.java
+END
+MailEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/mail/src/java/javax/mail/event/MailEvent.java
+END

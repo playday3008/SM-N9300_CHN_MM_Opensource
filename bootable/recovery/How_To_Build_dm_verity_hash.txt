@@ -1,0 +1,22 @@
+Follow the following steps to make dm_verity_hash
+
+	1. Copy dm_verity_hash source files to Google Original source.
+	
+	2. modify /android/bootable/recovery/Android.mk file by adding two lines below
+  	       $(LOCAL_PATH)/libdmverity/Android.mk \
+           $(LOCAL_PATH)/libdmverity_hashgen/Android.mk
+
+  3. You should add module name to 'PRODUCT_PACKAGES' in 'build\target\product\core.mk'.
+        	# libdmverity_hashgen
+	         PRODUCT_PACKAGES += \
+	                  libdmverity_hashgen \
+                    dm_verity_hash	
+		    
+  4. You should comment out a portion of android/build/core/multi_prebuilt.mk to build succesfully.
+		 #ifneq ($(LOCAL_MODULE)$(LOCAL_MODULE_CLASS),)
+		 #$(error $(LOCAL_PATH): LOCAL_MODULE or LOCAL_MODULE_CLASS not needed by \
+		    BUILD_MULTI_PREBUILT, use BUILD_PREBUILT instead!)
+		 #endif
+
+	5. dm_verity_hash will be located in the following location
+		/android/out/target/product/generic/system/bin/dm_verity_hash

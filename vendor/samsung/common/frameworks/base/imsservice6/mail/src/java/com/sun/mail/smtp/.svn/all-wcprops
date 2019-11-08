@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp
+END
+SMTPOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPOutputStream.java
+END
+SMTPTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPTransport.java
+END
+SMTPSendFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPSendFailedException.java
+END
+SMTPSSLTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPSSLTransport.java
+END
+DigestMD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/DigestMD5.java
+END
+SMTPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPMessage.java
+END
+SMTPAddressSucceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPAddressSucceededException.java
+END
+SMTPAddressFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/SMTPAddressFailedException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/smtp/package.html
+END

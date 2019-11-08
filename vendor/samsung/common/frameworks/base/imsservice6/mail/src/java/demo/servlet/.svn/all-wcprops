@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/mail/src/java/demo/servlet
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/mail/src/java/demo/servlet/README.txt
+END
+JavaMail.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/mail/src/java/demo/servlet/JavaMail.html
+END
+JavaMailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/mail/src/java/demo/servlet/JavaMailServlet.java
+END

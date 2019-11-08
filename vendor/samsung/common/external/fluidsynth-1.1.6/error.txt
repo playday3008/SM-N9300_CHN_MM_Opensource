@@ -1,0 +1,25 @@
+============================================
+[CscFeature] Generating Includer header file for CscFeatureTags...
+libsecnativefeature/SecNativeFeatureTagAll.h has been generated successfully...
+[CscFeature] Generating Makefile for CscFeatureTags...
+CscFeature.mk has been generated successfully...
+============================================
+============================================
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=4.0.4
+TARGET_PRODUCT=m0xx
+TARGET_BUILD_VARIANT=eng
+TARGET_BUILD_TYPE=release
+TARGET_BUILD_APPS=
+TARGET_ARCH=arm
+TARGET_ARCH_VARIANT=armv7-a-neon
+HOST_ARCH=x86
+HOST_OS=linux
+HOST_BUILD_TYPE=release
+BUILD_ID=IMM76D
+============================================
+No private recovery init.rc for TARGET_DEVICE m0 'device/samsung/m0'
+No private recovery resources for TARGET_DEVICE m0 'device/samsung/m0'
+make: Entering directory `/root/Working/m0jack/android'
+target thumb C: libfluidsyth <= external/fluidsynth-1.1.6/src/utils/fluid_hash.c
+make: Leaving directory `/root/Working/m0jack/android'

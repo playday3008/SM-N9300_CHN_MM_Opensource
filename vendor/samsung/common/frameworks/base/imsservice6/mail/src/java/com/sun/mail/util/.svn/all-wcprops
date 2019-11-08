@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util
+END
+SocketFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/SocketFetcher.java
+END
+TraceInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/TraceInputStream.java
+END
+UUDecoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/UUDecoderStream.java
+END
+TraceOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/TraceOutputStream.java
+END
+QPEncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/QPEncoderStream.java
+END
+BEncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/BEncoderStream.java
+END
+BASE64EncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/BASE64EncoderStream.java
+END
+QDecoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/QDecoderStream.java
+END
+UUEncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/UUEncoderStream.java
+END
+QEncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/QEncoderStream.java
+END
+ASCIIUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/ASCIIUtility.java
+END
+FolderClosedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/FolderClosedIOException.java
+END
+MessageRemovedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/MessageRemovedIOException.java
+END
+QPDecoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/QPDecoderStream.java
+END
+CRLFOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/CRLFOutputStream.java
+END
+LineInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/LineInputStream.java
+END
+LineOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/LineOutputStream.java
+END
+BASE64DecoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/mail/src/java/com/sun/mail/util/BASE64DecoderStream.java
+END
