@@ -1,3 +1,5 @@
+### Check branches: [stock-kernel](https://github.com/playday3008/SM-N9300_CHN_MM_Opensource/tree/stock-kernel) and [stock-platform](https://github.com/playday3008/SM-N9300_CHN_MM_Opensource/tree/stock-platform)
+
 Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
